@@ -8,5 +8,7 @@ public class MainBubbleSort {
 
         BubbleSort.bubbleSort(array);
         //test
+        //test2
+        //test3
     }
 }
