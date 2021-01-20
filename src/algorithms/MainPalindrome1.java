@@ -6,4 +6,5 @@ public class MainPalindrome1 {
         boolean res1 = Palindrome1.isPalindrome1(98344389);
         System.out.println(res1);
     }
+
 }
